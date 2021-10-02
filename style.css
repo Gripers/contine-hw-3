@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(https://i.pinimg.com/originals/11/1a/03/111a03133d14214539c96e0f657dff1a.png) no-repeat;
+    background-size: 100%;
+}
+
+.box {
+    display: flex;
+}
+
+.card {
+    border: 2px solid white;
+    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: 140px;
+    margin-top: 20px;
+    box-shadow: 5px 10px 15px white;
+}
+
+.card-head {
+    border-bottom: 1px solid white;
+    width: 200px;
+    height: 106px;
+}
+
+.card-body {
+    color: white;
+    text-align: center;
+}
+
+.nature {
+    padding: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.translate {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 15px;
+}
+
+a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.card2 {
+    border: 2px solid white;
+    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: 50px;
+    margin-top: 20px;
+    box-shadow: 5px 10px 15px white;
+}
+
+.card-head2 {
+    border-bottom: 1px solid white;
+    width: 201px;
+    height: 106px;
+}
+
+.card-body2 {
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.programming {
+    padding: 5px;
+}
+
+.translate2 {
+    padding: 15px;
+}
+
+.card3 {
+    border: 2px solid white;
+    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: 50px;
+    margin-top: 20px;
+    box-shadow: 5px 10px 15px white;
+}
+
+.card-head3 {
+    border-bottom: 1px solid white;
+    width: 201px;
+    height: 106px;
+}
+
+.card-body3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.football {
+    padding: 5px;
+}
+
+.translate3 {
+    padding: 15px;
+}
+
+.card4 {
+    border: 2px solid white;
+    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: 50px;
+    margin-top: 20px;
+    box-shadow: 5px 10px 15px white;
+}
+
+.card-head4 {
+    border-bottom: 1px solid white;
+    width: 200px;
+    height: 106px;
+}
+
+.card-body4 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.python {
+    padding: 5px;
+}
+
+.translate4 {
+    padding: 15px;
+}
